@@ -1,23 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hardik%20Mishra&fontSize=56&fontAlignY=38&animation=fadeIn&desc=AI%20Generalist%20%7C%20Data%20Science%20%26%20AI%20Student&descAlignY=58&descSize=18" />
-</p>
+# Hi, I'm Hardik Mishra 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Hardik+%F0%9F%91%8B;Building+YaarAI%3A+a+Hinglish+AI+study+buddy;Machine+Learning+%C2%B7+NLP+%C2%B7+Full-Stack;Open+to+AI+%2F+ML+%2F+Data+internships" />
-</p>
+**AI Generalist** · 3rd-year B.Sc. Data Science & AI student at SDBI, Mumbai
 
-<p align="center">
-  Mumbai, India · 3rd-year B.Sc. Data Science & AI at SDBI
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HardikMishra15&color=00b4d8&style=flat-square&label=Profile+views" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hardik-mishra-9a9b53351"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hardikmishra219@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?logo=gmail&logoColor=white" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-mishra-9a9b53351)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?logo=gmail&logoColor=white)](mailto:hardikmishra219@gmail.com)
 
 ---
 
@@ -25,11 +11,11 @@
 
 I'm a 3rd-year **B.Sc. Data Science & Artificial Intelligence** student at SDBI, Mumbai (2024–2027). I don't just train models. I build the whole thing around them: data, backend, interface, and the product thinking that decides whether anyone actually uses it.
 
-- 🤖 Building **AI products** that work end to end, from data collection to deployment
-- 🎙️ Obsessed with voice, memory, and making AI feel natural for Indian users
-- 📊 Volunteer **Data Analyst** at *Making The Difference* NGO, Mumbai
-- 🧠 Currently learning **MLOps, Deep Learning, and scalable AI systems**
-- 🔍 **Open to internships** in AI / ML / data roles
+- 🤖 Building AI products that work end to end, from data collection to deployment
+- 🎙️ Interested in voice, memory, and making AI feel natural for Indian users
+- 📊 Volunteer Data Analyst at *Making The Difference* NGO, Mumbai
+- 🧠 Currently learning MLOps, Deep Learning, and scalable AI systems
+- 🔍 Open to internships in AI / ML / data roles
 
 ---
 
@@ -42,8 +28,8 @@ An AI study buddy that talks the way Indian students actually talk. It is Hingli
 - **Switchable personalities:** Bhai Mode / Didi Mode
 - **Voice calling** with long-term, cross-session memory
 - **Hinglish-first design** instead of English translated afterwards
-- Built for the **250M+ students** in India
-- **Stack:** Claude API · ElevenLabs · React · TypeScript · Supabase · Three.js
+- Built for the 250M+ students in India
+- **Stack:** Claude API, ElevenLabs, React, TypeScript, Supabase, Three.js
 
 ---
 
@@ -80,7 +66,10 @@ An AI study buddy that talks the way Indian students actually talk. It is Hingli
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 
-**AI APIs & Tools:** Claude API · ElevenLabs (voice)
+**AI APIs & Tools**
+
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?logo=anthropic&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?logo=elevenlabs&logoColor=white)
 
 **Development**
 
@@ -104,39 +93,19 @@ An AI study buddy that talks the way Indian students actually talk. It is Hingli
 
 ## 💼 Experience
 
-**Volunteer Data Analyst:** *Making The Difference NGO, Mumbai*
-Worked with real-world data to support the NGO's work.
+**Volunteer Data Analyst**, *Making The Difference NGO, Mumbai*
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact
 
-I'm looking for **AI / ML / data internships** where I can build real things. If you're working on something interesting, reach out.
-
-- 💼 LinkedIn: [hardik-mishra](https://www.linkedin.com/in/hardik-mishra-9a9b53351)
-- 📧 Email: [hardikmishra219@gmail.com](mailto:hardikmishra219@gmail.com)
+- LinkedIn: [hardik-mishra](https://www.linkedin.com/in/hardik-mishra-9a9b53351)
+- Email: [hardikmishra219@gmail.com](mailto:hardikmishra219@gmail.com)
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HardikMishra15&theme=dark&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikMishra15&layout=compact&theme=dark" />
-</p>
+![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=HardikMishra15&theme=dark&show_icons=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HardikMishra15&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HardikMishra15&theme=react-dark&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HardikMishra15/HardikMishra15/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
-</p>
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HardikMishra15&layout=compact&theme=dark)
