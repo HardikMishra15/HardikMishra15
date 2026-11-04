@@ -1,8 +1,17 @@
-<h1 align="center">Hi, I'm Hardik Mishra 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hardik%20Mishra&fontSize=56&fontAlignY=38&animation=fadeIn&desc=AI%20Generalist%20%7C%20Data%20Science%20%26%20AI%20Student&descAlignY=58&descSize=18" />
+</p>
 
 <p align="center">
-  <b>AI Generalist</b> · Data Science & AI student · Builder of end-to-end products<br/>
-  Mumbai, India
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Hardik+%F0%9F%91%8B;Building+YaarAI%3A+a+Hinglish+AI+study+buddy;Machine+Learning+%C2%B7+NLP+%C2%B7+Full-Stack;Open+to+AI+%2F+ML+%2F+Data+internships" />
+</p>
+
+<p align="center">
+  Mumbai, India · 3rd-year B.Sc. Data Science & AI at SDBI
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HardikMishra15&color=00b4d8&style=flat-square&label=Profile+views" />
 </p>
 
 <p align="center">
@@ -114,4 +123,20 @@ I'm looking for **AI / ML / data internships** where I can build real things. If
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=HardikMishra15&theme=dark&show_icons=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikMishra15&layout=compact&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HardikMishra15&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HardikMishra15&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HardikMishra15/HardikMishra15/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
 </p>
